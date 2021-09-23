@@ -1,0 +1,1 @@
+HeciTool.efi /raw 30 80300008 40000 1B 0 1C 0
